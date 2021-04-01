@@ -4,7 +4,7 @@
 Heya! I love programming, so I decided to make another version of my personal website. 
 
 This is v1 of the new one. 
-If you want to see my old one, go [here](github.com/cortanium/legacywebsite)!
+If you want to see my old one, go [here](https://github.com/cortanium/legacywebsite)!
 
 Anyways, here's a changelog and a future updates tab.
 
