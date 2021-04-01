@@ -22,3 +22,5 @@ Anyways, here's a changelog and a future updates tab.
 - Randomization on the "Follow Me :)" text to be more Doge-like.
 
 - Twitch Live integration
+
+- Semi-Gravity web space
