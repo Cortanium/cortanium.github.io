@@ -24,3 +24,5 @@ Anyways, here's a changelog and a future updates tab.
 - Twitch Live integration
 
 - Semi-Gravity web space
+
+- Better placement of random text
