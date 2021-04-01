@@ -1,5 +1,5 @@
 ![Cortanium's Website](https://github.com/Cortanium/websitecontent/blob/main/corty.PNG?raw=true)
-##v1
+## v1
 
 Heya! I love programming, so I decided to make another version of my personal website. 
 This is v1 of the new one. 
@@ -14,7 +14,7 @@ Anyways, here's a changelog and a future updates tab.
 - Social integrations all set up
 
 
-##v2 (Planned)
+## v2 (Planned)
 
 - Secret easter eggs! 
 
